@@ -1,13 +1,14 @@
+<?xml version="1.0" standalone="yes" ?>
 <p_period time="1130">
-	<p_dayOfWeek day="1"></p_dayofWeek>
+	<p_dayOfWeek day="1"></p_dayOfWeek>
 	<p_course>ACIT4650Lab</p_course>
 	<p_instructor>Dargahi, Farnaz</p_instructor>
 	<p_room>SE12-306</p_room>
-	<p_dayOfWeek day="4"></p_dayofWeek>
+	<p_dayOfWeek day="4"></p_dayOfWeek>
 	<p_course>ACIT4910Lab</p_course>
 	<p_instructor>Richard Chau</p_instructor>
 	<p_room>SE12-306</p_room>
-	<p_dayOfWeek day="5"></p_dayofWeek>
+	<p_dayOfWeek day="5"></p_dayOfWeek>
 	<p_course>ACIT4770T</p_course>
 	<p_instructor>Trevor Lord</p_instructor>
 	<p_room>SE12-306</p_room>
