@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+=======
+<!DOCTYPE day_perspective SYSTEM "Schedule.dtd">
+>>>>>>> codylin-final
 
 <!--
     Document   : dayOfWeek.xml
     Created on : March 07, 2016, 9:00 PM
     Author     : Kelly Liu
 -->
+<<<<<<< HEAD
 <d_dayOfWeek day="4">
     <d_period time="930"></d_period>
     <d_course>ACIT4910</d_course>
@@ -35,3 +40,34 @@
     <d_room>SE12-308</d_room>
 		
 </d_dayOfWeek>
+=======
+<day_perspective>
+    <day_view day="4">
+        <period time="930"></period>
+        <course>ACIT4910</course>
+        <room>SW5-1850</room>	
+        <instructor>Richard Chau</instructor>
+	
+
+        <period time="1030"></period>
+        <course>ACIT4910</course>
+        <room>SE12-306</room>
+        <instructor>Richard Chau</instructor>
+
+        <period time="1130"></period>
+        <course>ACIT4910</course>
+        <room>SE12-306</room>
+        <instructor>Richard Chau</instructor>
+                
+        <period time="1330"></period>
+        <course>ACIT4850</course>
+        <room>SE12-308</room>
+        <instructor>James Parry</instructor>
+                
+        <period time="1430"></period>
+        <course>ACIT4850</course>
+        <room>SE12-308</room>
+        <instructor>James Parry</instructor>
+    </day_view>
+</day_perspective>
+>>>>>>> codylin-final
